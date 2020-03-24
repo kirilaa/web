@@ -4,7 +4,7 @@
   "description": "",
   "main": "kiril_web.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://kirilantevski.github.io"
+  "homepage":"https://kirilantevski.github.io",
   "bugs": {
     "url": "https://github.com/kirilantevski/kirilantevski.github.io/issues"
   },
