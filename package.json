@@ -1,8 +1,8 @@
 {
-  "name": "kiril",
+  "name": "kirilantevski.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "kiril_web.js",
+  "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
