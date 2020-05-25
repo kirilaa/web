@@ -1,5 +1,5 @@
 {
-  "name": "kirilantevski.github.io",
+  "name": "web",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kirilantevski/kirilantevski.github.io.git"
+    "url": "git+https://github.com/kirilantevski/web.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "homepage": "https://kirilantevski.github.io",
   "bugs": {
-    "url": "https://github.com/kirilantevski/kirilantevski.github.io/issues"
+    "url": "https://github.com/kirilantevski/web/issues"
   },
   "dependencies": {
     "gh-pages": "^2.2.0"
